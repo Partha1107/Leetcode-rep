@@ -4,4 +4,5 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        return len(nums) != len(set(nums))
+        seen = set()
+        return any((num in seen) or seen.add(num) for num in nums)
