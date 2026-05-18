@@ -1,30 +1,44 @@
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
-        # Ensure nums1 is smaller
+
+        # Make nums1 the smaller array
         if len(nums1) > len(nums2):
             nums1, nums2 = nums2, nums1
-        
-        m, n = len(nums1), len(nums2)
-        left, right = 0, m
-        
-        while left <= right:
-            partition1 = (left + right) // 2
-            partition2 = (m + n + 1) // 2 - partition1
-            
-            maxLeft1 = float('-inf') if partition1 == 0 else nums1[partition1 - 1]
-            minRight1 = float('inf') if partition1 == m else nums1[partition1]
-            
-            maxLeft2 = float('-inf') if partition2 == 0 else nums2[partition2 - 1]
-            minRight2 = float('inf') if partition2 == n else nums2[partition2]
-            
+
+        x = len(nums1)
+        y = len(nums2)
+
+        low = 0
+        high = x
+
+        while low <= high:
+
+            partitionX = (low + high) // 2
+            partitionY = (x + y + 1) // 2 - partitionX
+
+            maxLeftX = float('-inf') if partitionX == 0 else nums1[partitionX - 1]
+            minRightX = float('inf') if partitionX == x else nums1[partitionX]
+
+            maxLeftY = float('-inf') if partitionY == 0 else nums2[partitionY - 1]
+            minRightY = float('inf') if partitionY == y else nums2[partitionY]
+
             # Correct partition
-            if maxLeft1 <= minRight2 and maxLeft2 <= minRight1:
-                if (m + n) % 2 == 0:
-                    return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0
-                else:
-                    return max(maxLeft1, maxLeft2)
-            
-            elif maxLeft1 > minRight2:
-                right = partition1 - 1
+            if maxLeftX <= minRightY and maxLeftY <= minRightX:
+
+                # Even total length
+                if (x + y) % 2 == 0:
+                    return (
+                        max(maxLeftX, maxLeftY) +
+                        min(minRightX, minRightY)
+                    ) / 2.0
+
+                # Odd total length
+                return max(maxLeftX, maxLeftY)
+
+            # Move left
+            elif maxLeftX > minRightY:
+                high = partitionX - 1
+
+            # Move right
             else:
-                left = partition1 + 1
+                low = partitionX + 1
