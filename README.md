@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Partha1107/Leetcode-rep/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Partha1107/Leetcode-rep/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/Partha1107/Leetcode-rep/tree/master/0217-contains-duplicate) |
 | [1672-richest-customer-wealth](https://github.com/Partha1107/Leetcode-rep/tree/master/1672-richest-customer-wealth) |
@@ -61,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
