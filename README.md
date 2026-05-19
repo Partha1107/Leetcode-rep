@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Partha1107/Leetcode-rep/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Partha1107/Leetcode-rep/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/Partha1107/Leetcode-rep/tree/master/0217-contains-duplicate) |
 | [1672-richest-customer-wealth](https://github.com/Partha1107/Leetcode-rep/tree/master/1672-richest-customer-wealth) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -57,4 +58,20 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Partha1107/Leetcode-rep/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
