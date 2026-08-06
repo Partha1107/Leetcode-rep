@@ -33,6 +33,7 @@
 | [0007-reverse-integer](https://github.com/Partha1107/Leetcode-rep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Partha1107/Leetcode-rep/tree/master/0009-palindrome-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Partha1107/Leetcode-rep/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Partha1107/Leetcode-rep/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
