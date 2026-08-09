@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/Partha1107/Leetcode-rep/tree/master/0217-contains-duplicate) |
+| [1140-stone-game-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/1140-stone-game-ii) |
 | [1672-richest-customer-wealth](https://github.com/Partha1107/Leetcode-rep/tree/master/1672-richest-customer-wealth) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
@@ -32,6 +33,7 @@
 | [0002-add-two-numbers](https://github.com/Partha1107/Leetcode-rep/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Partha1107/Leetcode-rep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Partha1107/Leetcode-rep/tree/master/0009-palindrome-number) |
+| [1140-stone-game-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/1140-stone-game-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Partha1107/Leetcode-rep/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
@@ -74,6 +76,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Partha1107/Leetcode-rep/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
+| [1140-stone-game-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/1140-stone-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -90,4 +93,20 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Partha1107/Leetcode-rep/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
