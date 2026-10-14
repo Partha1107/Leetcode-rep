@@ -42,6 +42,7 @@
 | [1140-stone-game-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/1140-stone-game-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Partha1107/Leetcode-rep/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Partha1107/Leetcode-rep/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0011-container-with-most-water) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Partha1107/Leetcode-rep/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
 |  |
 | ------- |
