@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/Partha1107/Leetcode-rep/tree/master/0217-contains-duplicate) |
 | [1140-stone-game-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/1140-stone-game-ii) |
 | [1672-richest-customer-wealth](https://github.com/Partha1107/Leetcode-rep/tree/master/1672-richest-customer-wealth) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Partha1107/Leetcode-rep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
 |  |
@@ -28,6 +29,7 @@
 | [0012-integer-to-roman](https://github.com/Partha1107/Leetcode-rep/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Partha1107/Leetcode-rep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Partha1107/Leetcode-rep/tree/master/0217-contains-duplicate) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Partha1107/Leetcode-rep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Linked List
 |  |
 | ------- |
@@ -139,4 +141,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Partha1107/Leetcode-rep/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Partha1107/Leetcode-rep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Partha1107/Leetcode-rep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
