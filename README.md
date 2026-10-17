@@ -16,6 +16,7 @@
 | [1672-richest-customer-wealth](https://github.com/Partha1107/Leetcode-rep/tree/master/1672-richest-customer-wealth) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Partha1107/Leetcode-rep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Partha1107/Leetcode-rep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Partha1107/Leetcode-rep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Partha1107/Leetcode-rep/tree/master/0217-contains-duplicate) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Partha1107/Leetcode-rep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Partha1107/Leetcode-rep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0015-3sum](https://github.com/Partha1107/Leetcode-rep/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Partha1107/Leetcode-rep/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Partha1107/Leetcode-rep/tree/master/0217-contains-duplicate) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Partha1107/Leetcode-rep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
