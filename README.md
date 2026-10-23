@@ -18,6 +18,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Partha1107/Leetcode-rep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Partha1107/Leetcode-rep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Partha1107/Leetcode-rep/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Partha1107/Leetcode-rep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Partha1107/Leetcode-rep/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
