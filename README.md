@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/Partha1107/Leetcode-rep/tree/master/0217-contains-duplicate) |
 | [1140-stone-game-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Partha1107/Leetcode-rep/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/Partha1107/Leetcode-rep/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Partha1107/Leetcode-rep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Partha1107/Leetcode-rep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -22,6 +23,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Partha1107/Leetcode-rep/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/Partha1107/Leetcode-rep/tree/master/1672-richest-customer-wealth) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
@@ -160,4 +162,16 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Partha1107/Leetcode-rep/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Partha1107/Leetcode-rep/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Partha1107/Leetcode-rep/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Partha1107/Leetcode-rep/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
