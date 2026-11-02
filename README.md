@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/Partha1107/Leetcode-rep/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/Partha1107/Leetcode-rep/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1140-stone-game-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Partha1107/Leetcode-rep/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/Partha1107/Leetcode-rep/tree/master/1672-richest-customer-wealth) |
@@ -47,6 +48,7 @@
 | [0007-reverse-integer](https://github.com/Partha1107/Leetcode-rep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Partha1107/Leetcode-rep/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Partha1107/Leetcode-rep/tree/master/0012-integer-to-roman) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1140-stone-game-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/1140-stone-game-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Partha1107/Leetcode-rep/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -88,6 +90,7 @@
 | [0015-3sum](https://github.com/Partha1107/Leetcode-rep/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Partha1107/Leetcode-rep/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Partha1107/Leetcode-rep/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Partha1107/Leetcode-rep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Partha1107/Leetcode-rep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Partha1107/Leetcode-rep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
