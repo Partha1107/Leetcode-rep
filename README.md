@@ -21,6 +21,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Partha1107/Leetcode-rep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Partha1107/Leetcode-rep/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Partha1107/Leetcode-rep/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Partha1107/Leetcode-rep/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Partha1107/Leetcode-rep/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Partha1107/Leetcode-rep/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
