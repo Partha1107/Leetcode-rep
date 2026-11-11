@@ -59,6 +59,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Partha1107/Leetcode-rep/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Partha1107/Leetcode-rep/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Partha1107/Leetcode-rep/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Partha1107/Leetcode-rep/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0011-container-with-most-water) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Partha1107/Leetcode-rep/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Partha1107/Leetcode-rep/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Enumeration
 |  |
 | ------- |
