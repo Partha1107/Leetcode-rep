@@ -19,6 +19,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Partha1107/Leetcode-rep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Partha1107/Leetcode-rep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Partha1107/Leetcode-rep/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Partha1107/Leetcode-rep/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Partha1107/Leetcode-rep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Partha1107/Leetcode-rep/tree/master/3644-maximum-k-to-sort-a-permutation) |
