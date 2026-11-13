@@ -20,6 +20,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Partha1107/Leetcode-rep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Partha1107/Leetcode-rep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Partha1107/Leetcode-rep/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Partha1107/Leetcode-rep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Partha1107/Leetcode-rep/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Partha1107/Leetcode-rep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Partha1107/Leetcode-rep/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Partha1107/Leetcode-rep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Partha1107/Leetcode-rep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Partha1107/Leetcode-rep/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -123,10 +125,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Partha1107/Leetcode-rep/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Partha1107/Leetcode-rep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Partha1107/Leetcode-rep/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Partha1107/Leetcode-rep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -173,6 +177,7 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Partha1107/Leetcode-rep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Partha1107/Leetcode-rep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -193,4 +198,12 @@
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Partha1107/Leetcode-rep/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Partha1107/Leetcode-rep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Partha1107/Leetcode-rep/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
